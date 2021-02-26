@@ -8,7 +8,7 @@ summary: Convenio firmado con el  Colegio de Ingenieros en Geomática y
   Topografía COIGT, profesionales especializados  en la correcta y precisa
   georreferenciación del dato. Geodesia, Cartografía y Fotogrametría ...
   con  QGIS!
-draft: false
+draft: true
 featured: true
 authors:
   - Óscar Cuadrado
